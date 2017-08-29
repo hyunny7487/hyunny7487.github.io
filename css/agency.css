@@ -120,6 +120,7 @@ body {
         padding: 12px 0; } }
 
 header.masthead {
+  opacity: 0.75;
   text-align: center;
   color: white;
   /* 배경 이미지 바꾸기*/
